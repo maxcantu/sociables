@@ -865,3 +865,13 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #ffbe2c;
 }
+
+.box {
+	width: 800px;
+	height: 740px;
+	background: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	border-radius: 10px 10px;
+}
